@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pow2Until", "Pow2Until\Pow2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamousQuotes", "FamousQuotes\FamousQuotes.csproj", "{2178CB04-73CC-4C12-AA00-433A9B0FEA45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoPaSci", "RoPaSci\RoPaSci.csproj", "{99D60690-17A4-4EFD-853E-8F68090AB9F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrapAnalyzer", "TrapAnalyzer\TrapAnalyzer.csproj", "{18A74F50-47B1-4963-B287-C7EF7972A453}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{2178CB04-73CC-4C12-AA00-433A9B0FEA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2178CB04-73CC-4C12-AA00-433A9B0FEA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2178CB04-73CC-4C12-AA00-433A9B0FEA45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D60690-17A4-4EFD-853E-8F68090AB9F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D60690-17A4-4EFD-853E-8F68090AB9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D60690-17A4-4EFD-853E-8F68090AB9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D60690-17A4-4EFD-853E-8F68090AB9F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18A74F50-47B1-4963-B287-C7EF7972A453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A74F50-47B1-4963-B287-C7EF7972A453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A74F50-47B1-4963-B287-C7EF7972A453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A74F50-47B1-4963-B287-C7EF7972A453}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
